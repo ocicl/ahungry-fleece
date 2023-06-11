@@ -1,0 +1,9 @@
+* ahungry-fleece
+
+Common Lisp minimalist utility library
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/ahungry/ahungry-fleece.git |
+| commit  | 89f4eef                                           |
+| systems | ahungry-fleece                                    |
+|---------+---------------------------------------------------|
