@@ -4,6 +4,6 @@ Common Lisp minimalist utility library
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/ahungry/ahungry-fleece.git |
-| commit  | 89f4eef                                           |
+| commit  | c34ddb8                                           |
 | systems | ahungry-fleece                                    |
 |---------+---------------------------------------------------|
